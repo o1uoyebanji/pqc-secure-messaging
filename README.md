@@ -56,9 +56,7 @@ hybrid post-quantum secure messaging system
 pick an option (1/2/3): 3
 enter a message: hello from the post-quantum era!
 
-=======================================================
-   hybrid post-quantum secure messaging demo
-=======================================================
+This is the hybrid post-quantum secure messaging demo.........
 
 [setup] generating keys for alice...
   rsa-2048 keys created
