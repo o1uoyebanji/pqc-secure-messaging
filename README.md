@@ -1,6 +1,6 @@
 # Hybrid Post-quantum Secure Messaging Project
 
-this is just a python project that combines rsa encryption (classical) and crystals-kyber (post-quantum) to create a hybrid encrypted messaging system. i built this pretty much just to learn about post quantum cryptography and how it compares to the encryption we use today.
+this is a python project that combines rsa encryption (classical) and crystals-kyber (post-quantum) to create a hybrid encrypted messaging system. i built this pretty much just to learn about post quantum cryptography and how it compares to the encryption we use today.
 
 ---
 
