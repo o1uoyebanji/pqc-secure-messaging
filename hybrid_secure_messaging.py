@@ -180,8 +180,7 @@ def run_benchmarks():
 # main menu
 if __name__ == "__main__":
 
-    print("\nhybrid post-quantum secure messaging system")
-    print("-------------------------------------------")
+    print("\nthis is the hybrid post-quantum secure messaging system")
     print("1. run message simulation")
     print("2. run benchmarks")
     print("3. run both")
@@ -200,4 +199,5 @@ if __name__ == "__main__":
     else:
         print("running full demo...")
         run_simulation("hello from the post quantum era!")
+
         run_benchmarks()
